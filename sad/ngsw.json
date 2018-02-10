@@ -1,0 +1,47 @@
+{
+  "configVersion": 1,
+  "index": "/sad/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/sad/favicon.ico",
+        "/sad/index.html",
+        "/sad/0.43945c8ca7a3948bbec2.chunk.js",
+        "/sad/1.13986a6517da67c168dc.chunk.js",
+        "/sad/2.f94fa38522bd59980914.chunk.js",
+        "/sad/3.d689d7880d6b72f55e0a.chunk.js",
+        "/sad/inline.4b38de6451f95c1f0cb8.bundle.js",
+        "/sad/main.ef20a2a03f48682164ee.bundle.js",
+        "/sad/polyfills.c3fa674a758790e0b416.bundle.js",
+        "/sad/styles.f926b8ea4924f8c11833.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/sad/assets/icons/FriendBot_favicon.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/sad/0.43945c8ca7a3948bbec2.chunk.js": "7094c17424d043c24fd1ae0f3e5cd1bf67b76c2f",
+    "/sad/assets/icons/FriendBot_favicon.svg": "af9c192d7df28dc8e47eafe85c14860025c88136",
+    "/sad/1.13986a6517da67c168dc.chunk.js": "c3e98d7ae652252d56f7b666f4f45e369baf3c82",
+    "/sad/2.f94fa38522bd59980914.chunk.js": "3752a15977a6789acd9573862a20a8eef34d1aed",
+    "/sad/3.d689d7880d6b72f55e0a.chunk.js": "1eee43d52610b67bd8f2a5a873ed4de2f25257d4",
+    "/sad/inline.4b38de6451f95c1f0cb8.bundle.js": "829cb2fda032b99c69f3dd595dfe2be9f0efaa1b",
+    "/sad/main.ef20a2a03f48682164ee.bundle.js": "e87a5f807175eb2a222b496c4bd4678b73b744aa",
+    "/sad/polyfills.c3fa674a758790e0b416.bundle.js": "3acbaa0395c1b295a7de974dbe5b688c99021e9c",
+    "/sad/styles.f926b8ea4924f8c11833.bundle.css": "1fd4a07ba2c1f844883b8f19c1cc2b35a1467e65",
+    "/sad/favicon.ico": "a3636fb71c47428eafba01143e4c1db9d4f9d1ea",
+    "/sad/index.html": "98e70748723a4f8a36accc8af1bf449bb75d6877"
+  }
+}
